@@ -1,0 +1,42 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "177e44fc-912c-40d9-9780-51eb3efc5166",
+            "collectionId": "Telugu",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Telugu/Telugu_Short_Story/177e44fc-912c-40d9-9780-51eb3efc5166/177e44fc-912c-40d9-9780-51eb3efc5166_te_Female.mp4"
+        },
+        {
+            "id": "a716426d-3605-42f7-9dcb-0df89258eb5c",
+            "collectionId": "Telugu",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Telugu/Telugu_Short_Story/a716426d-3605-42f7-9dcb-0df89258eb5c/a716426d-3605-42f7-9dcb-0df89258eb5c_te_Female.mp4"
+        },
+        {
+            "id": "2adacbd7-7711-4c34-9fec-1e90f86b8705",
+            "collectionId": "Telugu",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Telugu/Telugu_Short_Story/2adacbd7-7711-4c34-9fec-1e90f86b8705/2adacbd7-7711-4c34-9fec-1e90f86b8705_te_Male.mp4"
+        },
+        {
+            "id": "5a813b6b-a6ee-48c1-ba0e-1aef6755d208",
+            "collectionId": "Telugu",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Telugu/Telugu_Short_Story/5a813b6b-a6ee-48c1-ba0e-1aef6755d208/5a813b6b-a6ee-48c1-ba0e-1aef6755d208_te_Female.mp4"
+        },
+        {
+            "id": "b250100a-39a0-499d-aaac-886a9dddd495",
+            "collectionId": "Telugu",
+            "type": "Short_Story",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Telugu/Telugu_Short_Story/b250100a-39a0-499d-aaac-886a9dddd495/b250100a-39a0-499d-aaac-886a9dddd495_te_Male.mp4"
+        }
+    ]
+}
